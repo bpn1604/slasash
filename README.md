@@ -14,7 +14,7 @@ This is the frontend part of the Project Name project. It is built using React.
 1. **Clone the repository:**
 
     ```bash
-    [git clone https://github.com/your_username/project-name-frontend.git](https://github.com/bpn1604/slasash.git)
+    [git clone https://github.com/bpn1604/slasash.git]
     ```
 
 2. **Navigate into the project directory:**
@@ -53,7 +53,7 @@ This is the backend part of the Project Name project. It is built using Express.
 1. **Clone the repository:**
 
     ```bash
-    [git clone https://github.com/your_username/project-name-backend.git](https://github.com/bpn1604/slasash.git)
+    [git clone https://github.com/bpn1604/slasash.git ]
     ```
 
 2. **Navigate into the project directory:**
