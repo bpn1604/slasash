@@ -35,17 +35,7 @@ This is the frontend part of the Project Name project. It is built using React.
     npm start
     ```
 
-## Usage
 
-Provide instructions on how to use the frontend part of the project.
-
-## Contributing
-
-If you'd like to contribute to this project, follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
 # Project Name - Slasash (Backend)
 
 This is the backend part of the Project Name project. It is built using Express.
@@ -86,7 +76,6 @@ This is the backend part of the Project Name project. It is built using Express.
 
 ## Usage
 
-Provide instructions on how to use the backend part of the project.
 
 ## API Documentation
 
