@@ -1,4 +1,4 @@
-# Project Name - Frontend
+# Project Name - Slasash (Frontend)
 
 This is the frontend part of the Project Name project. It is built using React.
 
@@ -46,7 +46,7 @@ If you'd like to contribute to this project, follow the [Contributing Guidelines
 ## License
 
 This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
-# Project Name - Backend
+# Project Name - Slasash (Backend)
 
 This is the backend part of the Project Name project. It is built using Express.
 
